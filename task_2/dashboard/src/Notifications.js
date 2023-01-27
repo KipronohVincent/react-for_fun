@@ -5,7 +5,7 @@ import close from './close-icon.png'
 
 const styles = { 
         position: 'relative',
-        left: '1175px',
+        left: '1450px',
         bottom: '70px',
         border: 'none',
         background: 'transparent'
